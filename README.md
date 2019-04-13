@@ -1,3 +1,1 @@
-- reminder: caching with beautiful soup and json — https://github.com/SI507-F17-apd/section-week-6
-- embedding youtube and spotify — not necessary, but something you can borrow
-- fill evaluations
+**Note:** This is an example written in Fall 2017, so there is no guarantee here that the APIs and access to external services (e.g. YT and Spotify) work the same way now. However, the example may provide you some ideas.
